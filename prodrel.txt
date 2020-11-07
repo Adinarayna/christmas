@@ -1,6 +1,5 @@
-This is the 1st release going online
 
-bug is fixed
 
-Feature1 enhancements started
 
+working on feature2
+feature2 enhancements complete
