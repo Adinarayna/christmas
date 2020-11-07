@@ -1,2 +1,4 @@
-This is the 1st release goining online
+This is the 1st release going online
+
+bug is fixed
 
